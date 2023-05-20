@@ -1,7 +1,7 @@
 <h1 align="center">Todo List Console</h1>
 
 <p align="center">
-  <img width="72%" style="max-height:80vh; border-radius:2rem;" src="https://raw.githubusercontent.com/suren-atoyan/react-pwa/master/public/cover.png" />
+  <img width="72%" style="max-height:80vh; border-radius:2rem;" src="https://github.com/codigoenlaweb/todo-list-console/blob/master/public/img/readmeimg.png" />
 </p>
 
 ## Indice
@@ -38,7 +38,7 @@ this project is part of the course [Node: De cero a experto](https://www.udemy.c
 1. Para obtener una copia local del código, clónalo usando git.
 
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/https://github.com/codigoenlaweb/todo-list-console
    ```
 
 2. Access the project directory.
